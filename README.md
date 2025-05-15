@@ -7,5 +7,5 @@
 ## 👥 Participantes do Projeto
 
 - **Igor Rampazo** [Github](https://github.com/IgorRamapazo)
-- [Leo Barros](https://github.com/9HirOziN6)
-- [Maria Menenzes]()
+- **Leo Barros** [Github](https://github.com/9HirOziN6)
+- **Maria Menenzes** [Github](https://github.com/mariazinha1024)
